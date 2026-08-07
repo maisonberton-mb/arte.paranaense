@@ -1,16 +1,21 @@
 body{
     background-color: #39A100(88, 139, 0);
     color: #C3ABFF(179, 255, 255);
+    font-family: Arial, sans-serif;
 }
 header{
     background-color: #297300;
  color: #A988FC;
+ text-align: center;
+ padding: 30px;
 }
-main{
-    background-color:#52a326;
+h1 {
+    font-size: 36px;
 }
-footer{
-     background-color: #B1E396;
-     color:#B496FF; 
+h2{
+    color: #B1E396;
 }
-
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
