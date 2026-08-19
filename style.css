@@ -1,11 +1,11 @@
 body{
     background-color: #39A100(88, 139, 0);
-    color: #C3ABFF(179, 255, 255);
+    color: #c2b1ee(179, 255, 255);
     font-family: Arial, sans-serif;
 }
 header{
     background-color: #297300;
- color: #A988FC;
+ color: #d3c4fa;
  text-align: center;
  padding: 30px;
 }
@@ -18,4 +18,32 @@ h2{
 p{
     font-size: 18px;
     line-height: 1.6;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section{
+    background-color: #c2b1ee;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: #B1E396;
+    margin-top: 8px;
+
 }
