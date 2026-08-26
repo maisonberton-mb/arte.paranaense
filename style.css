@@ -1,21 +1,26 @@
-body{
+body {
     background-color: #39A100(88, 139, 0);
     color: #997be6(179, 255, 255);
     font-family: Arial, sans-serif;
+    margin: 0;
 }
-header{
+
+header {
     background-color: #297300;
- color: #b59af8;
- text-align: center;
- padding: 30px;
+    color: #b59af8;
+    text-align: center;
+    padding: 30px;
 }
+
 h1 {
     font-size: 36px;
 }
-h2{
+
+h2 {
     color: #B1E396;
 }
-p{
+
+p {
     font-size: 18px;
     line-height: 1.6;
 }
@@ -25,7 +30,7 @@ main {
     margin: auto;
 }
 
-section{
+section {
     background-color: #a083e7;
     margin: 20px 0;
     padding: 20px;
@@ -52,13 +57,14 @@ figcaption {
     background-color: #ab8afc;
     padding: 15px;
     margin: 15px 0;
-    border-left:6px solid #B1E396;
+    border-left: 6px solid #B1E396;
     border-radius: 10px;
 }
 
 .card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #65ffb7;
     color: #8355ff;
