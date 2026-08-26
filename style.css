@@ -47,3 +47,22 @@ figcaption {
     margin-top: 8px;
 
 }
+
+.card {
+    background-color: #d3c4fa;
+    padding: 15px;
+    margin: 15px 0;
+    border-left:6px solid #B1E396;
+    border-radius: 10px;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+footer {
+    background-color: #9165ff;
+    color: #fffdfd;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
