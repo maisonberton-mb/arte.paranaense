@@ -41,7 +41,7 @@ nav a {
 }
  
 nav a:hover {
-    background-color: #cfbcff;
+    background-color: #3605b3;
 }
 
 main {
@@ -50,7 +50,7 @@ main {
 }
 
 section {
-    background-color: #a083e7;
+    background-color: #10003a;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -73,7 +73,7 @@ figcaption {
 }
 
 .card {
-    background-color: #ab8afc;
+    background-color: #12003f;
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid #B1E396;
@@ -86,7 +86,7 @@ figcaption {
 
 footer {
     background-color: #B1E396;
-    color: #8355ff;
+    color: #b194ff;
     text-align: center;
     padding: 20px;
     margin-top: 30px;
