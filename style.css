@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #B1E396;;
-    color: #b59af8;
+    color: #a181f0;
     text-align: center;
     padding: 30px;
 }
@@ -30,13 +30,18 @@ nav {
 }
 
 nav a {
-    color:#8355ff;
+
+    color:#cfbcff;
     text-decoration: none;
     background-color:#b59af8
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
     display: inline-block;
+}
+ 
+nav a:hover {
+    background-color: #cfbcff;
 }
 
 main {
