@@ -1,6 +1,6 @@
 body {
     background-color: #eef1ec;
-    color: #997be6(179, 255, 255);
+    color: #997be6;
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -23,6 +23,20 @@ h2 {
 p {
     font-size: 18px;
     line-height: 1.6;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color:#ab8afc;
+    text-decoration: none;
+    background-color: #B1E396;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
 }
 
 main {
