@@ -91,3 +91,22 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+button {
+    background-color:#997be6;
+    color:#B1E396;
+    border: none;
+    padding: 10xp 15xp;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #b59af8;
+}
+
+.curtir {
+    display:block
+    width: fit-content;
+    margin: 20xp
+
+}
