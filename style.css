@@ -101,11 +101,11 @@ button {
 }
 
 button:hover{
-    background-color: #b59af8;
+    background-color: #8b5ffa;
 }
 
 .curtir {
-    display:block
+    display:block;
     width: fit-content;
     margin: 20xp
 
