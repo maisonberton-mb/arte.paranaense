@@ -95,7 +95,7 @@ button {
     background-color:#997be6;
     color:#B1E396;
     border: none;
-    padding: 10xp 15xp;
+    padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
 }
@@ -107,6 +107,6 @@ button:hover{
 .curtir {
     display: block;
     width: fit-content;
-    margin: 20xp
+    margin: 20px;
 
 }
